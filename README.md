@@ -1,1 +1,1 @@
-# -UnityProject_Palette_Planning
+# UnityProject_Palette_Planning

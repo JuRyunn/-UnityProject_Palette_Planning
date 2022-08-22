@@ -10,11 +10,12 @@
 ## 참고할 영상
 - [조이스틱으로 움직임 제어](https://www.youtube.com/watch?v=GGqwMGZiwCg)
 - [3D 모델 구하기, 리깅 방법](https://www.youtube.com/watch?v=oFBGs4_jJ0Y&t=620s)
-- [카메라 제어]()
+- [카메라 제어](https://www.youtube.com/watch?v=4611qmBWTC0)
 - [목표 추적 AI 만들기](https://www.youtube.com/watch?v=FBY_cmtCNHw)
 
+<br>
 
-## 코드 (확실하지 않음)
+## 유저 추적 카메라 코드 (확실하지 않음)
 ```C#
 using System.Collections;
 using UnityEngine;

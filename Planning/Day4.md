@@ -1,4 +1,4 @@
-## 몬스터가 플레이어 추적
+## 몬스터가 플레이어 추적: 1
 - [참고영상: 1](https://www.youtube.com/watch?v=3_5RBUGpdH8&t=353s)
 #### Code
 ```C#
@@ -95,7 +95,9 @@ public class MonsterMovement : MonoBehaviour
 
 <br>
 
+## 몬스터가 플레이어 추적: 2
 - [참고영상: 2](https://www.youtube.com/watch?v=UvDqnbjEEak)
+
 #### Windows -> AI -> Navigation -> Bake -> clear -> bake
 ![image](https://user-images.githubusercontent.com/79950504/186148964-3df18308-bbc3-4b10-bfc0-a679574b4e3c.png)
 

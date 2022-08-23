@@ -1,5 +1,6 @@
 ## 몬스터가 플레이어 추적
 - [참고영상: 1](https://www.youtube.com/watch?v=3_5RBUGpdH8&t=353s)
+#### Code
 ```C#
 using System.Collections;
 using System.Collections.Generic;
@@ -90,4 +91,12 @@ public class MonsterMovement : MonoBehaviour
 ```
 #### Animator
 ![image](https://user-images.githubusercontent.com/79950504/186148621-79d569f6-412d-4879-ab69-93c68b0f5b57.png)
+
+
+<br>
+
+- [참고영상: 2](https://www.youtube.com/watch?v=UvDqnbjEEak)
+#### Windows -> AI -> Navigation -> Bake -> clear -> bake
+![image](https://user-images.githubusercontent.com/79950504/186148964-3df18308-bbc3-4b10-bfc0-a679574b4e3c.png)
+
 

@@ -101,4 +101,33 @@ public class MonsterMovement : MonoBehaviour
 #### Windows -> AI -> Navigation -> Bake -> clear -> bake
 ![image](https://user-images.githubusercontent.com/79950504/186148964-3df18308-bbc3-4b10-bfc0-a679574b4e3c.png)
 
+#### Monster -> AddComponent -> NavMeshAgent
+![image](https://user-images.githubusercontent.com/79950504/186149434-2c7b36a7-1d1d-42dd-ba7d-5ee23b1429e2.png)
+
+#### code
+```C#
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.AI;
+
+public class MonsterMovement2 : MonoBehaviour
+{
+    public NavMeshAgent monster;
+    public Transform player;
+
+    void Start()
+    {
+
+    }
+
+    void Update()
+    {
+        monster.SetDestination(player.position);
+    }
+}
+
+```
+
+
 

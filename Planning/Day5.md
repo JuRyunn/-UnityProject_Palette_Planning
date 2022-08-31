@@ -1,4 +1,4 @@
-#### 적 AI 코드 (플레이어 추적, 공격)
+#### [적 AI 코드: 플레이어 추적, 공격](https://www.youtube.com/watch?v=ieyHlYp5SLQ&t=300s)
 ``` C#
 using System.Collections;
 using System.Collections.Generic;
